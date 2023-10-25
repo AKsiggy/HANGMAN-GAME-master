@@ -1,0 +1,6 @@
+baseball
+badminton
+table tennis
+tennis
+basketball
+football
